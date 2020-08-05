@@ -1,0 +1,16 @@
+body {
+    padding: 50px;
+}
+
+.container {
+    border: 3px solid orange;
+    padding: 20px 40px 40px;
+    max-width: 640px;
+}
+
+.containerImage {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    margin: 20px 30px 0 0;
+}

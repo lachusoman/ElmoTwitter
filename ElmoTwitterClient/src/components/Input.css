@@ -1,0 +1,10 @@
+input {
+    border: none;
+    border-bottom: 2px solid green;
+    float: right;
+    font-family: Dancing Script;
+    color: green;
+    font-weight: bold;
+    font-size: 1.875em;
+    /* padding-left: 30px; */
+}

@@ -1,0 +1,142 @@
+{
+  "1": {
+    "userId": 1,
+    "userName": "Gordon Ramsay",
+    "location": "US",
+    "image": "ramsay.jpg",
+    "twitterHandle": "http://twitter.com/gordon",
+    "followerCount": "7.4M",
+    "tweets": {
+      "2020-08-05T10:37:27+00:00": {
+        "tweet": "Absolutely gorgeous pork belly at Bread Street Kitchen !! "
+      },
+      "2020-08-05T11:37:27+00:00": {
+        "tweet": "Cracking start to the day at Plane Food !! @GordonRamsayGRR"
+      },
+      "2020-08-05T12:37:27+00:00": {
+        "tweet": "We're taking part in the #EatOutToHelpOut scheme.... Join us @GordonRamsayGRR this August !!"
+      },
+      "2020-08-05T13:37:27+00:00": {
+        "tweet": "Stunning red fruit, tomato and pepper gazpacho on the Pétrus by Gordon Ramsay terrace !!"
+      },
+      "2020-07-05T16:37:27+00:00": {
+        "tweet": "#BBQ Shrimp are so tasty and easy ! Now I’m showing you how to make this #NewOrleans staple on my YouTube channel ! Here's a new "
+      },
+      "2020-07-05T14:37:27+00:00": {
+        "tweet": "Plating octopus, borlotti beans, tropea onions and nduja at Union Street Café....  delicious !!"
+      }
+    }
+  },
+  "2": {
+    "userId": 2,
+    "userName": "Roger Federer",
+    "location": "Switzerland",
+    "image": "federer.jpg",
+    "twitterHandle": "http://twitter.com/fedr",
+    "followerCount": "12.6M",
+    "tweets": {
+      "2015-01-29T13:37:27+00:00": {
+        "tweet": "delighted after yesterday's performance...."
+      },
+      "2014-02-13T13:37:27+00:00": {
+        "tweet": "year ended with great hope...thanks u alll."
+      },
+      "2014-03-14T13:37:27+00:00": {
+        "tweet": "looking 4ward for no 1 title again"
+      },
+      "2015-02-15T13:37:27+00:00": {
+        "tweet": "Wonder how Twitter works.."
+      },
+      "2015-03-16T13:37:27+00:00": {
+        "tweet": "Just joined Twitter"
+      },
+      "2015-04-17T13:37:27+00:00": {
+        "tweet": "Twitter and Tennis starts with a 'T'"
+      }
+    }
+  },
+  "3": {
+    "userId": 3,
+    "userName": "Barack Obama ",
+    "location": "Sydney",
+    "image": "obama.jpg",
+    "twitterHandle": "http://twitter.com/barak",
+    "followerCount": "121.2M",
+    "tweets": {
+      "2016-01-12T13:37:27+00:00": {
+        "tweet": "John believed that in all of us, there exists the capacity for great courage and a longing to do what’s right. We are so lucky to have had him show us the way. I offered some thoughts today on his life and how, like him, we can give it all we have."
+      },
+      "2014-02-13T13:37:27+00:00": {
+        "tweet": "John spent his entire life fighting for justice and equality––and now he has left behind his marching orders for all of us."
+      },
+      "2014-03-14T13:37:27+00:00": {
+        "tweet": "We're 100 days away from Election Day and there is too much at stake to sit this one out. Now's a good time to make sure you're registered to vote––and to make sure your friends and family are, too."
+      },
+      "2014-04-15T13:37:27+00:00": {
+        "tweet": "I sat down with @JoeBiden to talk about the most pressing issues of our time. He's exactly the leader we need right now––with the vision, the plans, and character to move America forward."
+      },
+      "2014-05-16T13:37:27+00:00": {
+        "tweet": "Doesn’t get much better than sitting down to talk with my friend Joe"
+      },
+      "2014-06-17T13:37:27+00:00": {
+        "tweet": "Finally, here’s a look at how Germany reshaped police training after the horrors of World War II and how this approach might be useful to other countries today."
+      }
+    }
+  },
+  "4": {
+    "userId": 4,
+    "userName": "Narendra Modi",
+    "location": "India",
+    "image": "modi.jpg",
+    "twitterHandle": "http://twitter.com/modi",
+    "followerCount": "60.6M",
+    "tweets": {
+      "2014-03-12T13:37:27+00:00": {
+        "tweet": "कन्याकुमारी से क्षीर भवानी तक,"
+      },
+      "2020-08-05T13:37:27+00:00": {
+        "tweet": "स्नेहमयी शुभकामनाओं और प्रेरणादायी विचारों के लिए आपका बहुत-बहुत धन्यवाद।"
+      },
+      "2014-03-14T13:37:27+00:00": {
+        "tweet": "Thank you for the wishes, @PTUshaOfficial. Your efforts to mentor young sporting talent is commendable. Efforts like yours are vital for Indian sportspersons to shine at the world stage."
+      },
+      "2014-03-15T13:37:27+00:00": {
+        "tweet": "Thank you for the Raksha Bandhan greetings @Pvsindhu1"
+      },
+      "2014-03-16T13:37:27+00:00": {
+        "tweet": "Focus on multi-disciplinary aspects, flexibility and more...some salient features of the National Education Policy, 2020."
+      },
+      "2014-03-17T13:37:27+00:00": {
+        "tweet": "The National Education Policy will make our education: More fruitful. Broad-based. One that guides our youth to their natural passions."
+      }
+    }
+  },
+  "5": {
+    "userId": 5,
+    "userName": "Sachin Tendulkar",
+    "location": "India",
+    "image": "ten.jpg",
+    "twitterHandle": "http://twitter.com/sachin",
+    "followerCount": "33.3M",
+    "tweets": {
+      "2014-03-12T13:37:27+00:00": {
+        "tweet": "Oh dear! We look like school kids."
+      },
+      "2014-03-13T13:37:27+00:00": {
+        "tweet": "True friends are never apart, maybe in distance but never in heart! Red heart This one is for you mere saathi mere dost @sachin_rt & wishing you a very happy Friendship Day!"
+      },
+      "2014-03-14T13:37:27+00:00": {
+        "tweet": "What a pic @sachin_rt Face with tears of joy! You & Sunil have put the dreaded ‘shendi’ on my head... I guess I was feeling it Face with tears of joyFace with tears of joy Little did we know that we were the fortunate ones who were friends with “God”! Hugging faceHugging face"
+      },
+      "2014-03-15T13:37:27+00:00": {
+        "tweet": "Sachin Tendulkar Celebrates Raksha Bandhan with Savita Tai :) Happy Rakhsa bandhan to every one... Smiling face with smiling eyes❤"
+      },
+      "2014-03-16T13:37:27+00:00": {
+        "tweet": "Will go to the nets and workout if it’s still possible Winking face"
+      },
+      "2014-03-17T13:37:27+00:00": {
+        "tweet": "@vikramsathaye @bhogleharsha @cricketwallah @BishanBedi - am sure you will enjoy this as well Folded hands"
+      }
+    }
+  }
+}
