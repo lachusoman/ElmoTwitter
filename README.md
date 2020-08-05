@@ -1,5 +1,17 @@
 # Elmo Twitter App
 
+### Example Searches
+
+These are the example users in the system.
+
+```
+Gordon Ramsay(US)
+Roger Federer(Switzerland)
+Barack Obama (US)
+Narendra Modi(India)
+Sachin Tendulkar(India)
+```
+
 # Intro
 
 The App is a simple React, Redux, Node.js app written using Typescript. The first step in solving the problem was identifying the nouns that make up the use case. The nouns make the domain model object that consititues the solution.

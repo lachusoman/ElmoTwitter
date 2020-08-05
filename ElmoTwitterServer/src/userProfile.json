@@ -58,9 +58,9 @@
   "3": {
     "userId": 3,
     "userName": "Barack Obama ",
-    "location": "Sydney",
+    "location": "US",
     "image": "obama.jpg",
-    "twitterHandle": "http://twitter.com/barak",
+    "twitterHandle": "http://twitter.com/barack",
     "followerCount": "121.2M",
     "tweets": {
       "2016-01-12T13:37:27+00:00": {

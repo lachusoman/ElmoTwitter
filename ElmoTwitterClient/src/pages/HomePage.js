@@ -63,13 +63,13 @@ class HomePage extends Component {
                             <td width="50%" colSpan="2">{this.props.errorOccurred && <p style={{ color: "red" }}>{this.props.errorMsg}</p>}</td>
                         </tr>
                         <tr>
-                            <td colSpan="2"><ul>
+                            <td colSpan="2">
                                 {submitted && this.props.userDetails && this.props.userDetails.map(data => {
                                     return (
-                                        <li key={data.id}><a href="#" key={data.id} onClick={(event) => this.linkHandler(event, data.id)}>{data.name}</a></li>
+                                        <li key={data.id}><a href="#" key={data.id} onClick={(event) => this.linkHandler(event, data.id)}>{data.name}({data.location})</a></li>
                                     );
                                 })}
-                            </ul></td></tr>
+                            </td></tr>
                     </tbody>
                 </table>
             </form >

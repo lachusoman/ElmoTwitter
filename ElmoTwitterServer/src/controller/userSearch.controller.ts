@@ -11,7 +11,7 @@ interface userResult {
 
 router.get("/", (req: Request, res: Response) => {
   const userSearchParam = req.query.param.toString();
-  if (userSearchParam && userSearchParam.length > 2) {
+  if (userSearchParam) {
     let userData: any = JSON.parse(fs.readFileSync("./src/userProfile.json"));
     let keys: string[] = Object.keys(userData);
     const result: userResult[] = keys
@@ -39,8 +39,7 @@ router.get("/", (req: Request, res: Response) => {
     }
   }
   res.status(404).json({
-    message:
-      "UserName or Location not valid (and must have atleast 3 characters)",
+    message: "UserName or Location not valid",
   });
 });
 
