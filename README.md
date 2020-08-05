@@ -8,7 +8,7 @@ The app demonstrates a SPA/API communication which is quite a trend in the prese
 
 ## Installation on local:
 # Following are the steps to get started with ElmoTwitter
-from within git cloned ElmoTwitter folder
+from within git, clone ElmoTwitter folder
 
 ```
 $ git clone https://github.com/lachusoman/ElmoTwitter.git
