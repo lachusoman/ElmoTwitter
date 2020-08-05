@@ -1,3 +1,34 @@
+
+
+# Intro
+
+The App is a simple React, Redux, Node.js app written using Typescript. The first step in solving the problem was identifying the nouns that make up the use case. The nouns make the domain model object that consititues the solution.
+
+The app demonstrates a SPA/API communication which is quite a trend in the present day SAAS and other applications. SPA has the advantage that it is served via a webserver or a CDN and the downloaded javascript application runs on user browser to call the remote API. While the client machines can be of low configuration the server is usually designed to scale in accordance with the changing load.
+
+## Installation on local:
+# Following are the steps to get started with ElmoTwitter
+from within git cloned ElmoTwitter folder
+
+```
+$ git clone https://github.com/lachusoman/ElmoTwitter.git
+```
+# ElmoTwitterServer
+
+```
+$ cd ElmoTwitterServer
+$ npm install
+$ npm run dev
+```
+# ElmoTwitterClient
+
+```
+$ cd ElmoTwitterClient
+$ npm install
+$ npm start
+```
+This should bring up the default browser in http://localhost:3000. From here one can use the website.
+
 # Elmo Twitter App
 
 ### Example Searches
@@ -31,34 +62,6 @@ If User exists,results will be shown as links.You can click the link to view the
 ## Shows User Profile of selected User.
 
 ![User Profile](https://github.com/lachusoman/ElmoTwitter/blob/master/screenshots/UserProfile.jpg)
-
-# Intro
-
-The App is a simple React, Redux, Node.js app written using Typescript. The first step in solving the problem was identifying the nouns that make up the use case. The nouns make the domain model object that consititues the solution.
-
-The app demonstrates a SPA/API communication which is quite a trend in the present day SAAS and other applications. SPA has the advantage that it is served via a webserver or a CDN and the downloaded javascript application runs on user browser to call the remote API. While the client machines can be of low configuration the server is usually designed to scale in accordance with the changing load.
-
-# using app:
-
-from within git cloned ElmoTwitter folder
-git clone https://github.com/lachusoman/ElmoTwitter.git
-
-```
-$ cd ElmoTwitterServer
-$ npm install
-$ npm run dev
-```
-
-from within git cloned ElmoTwitter folder
-
-```
-$ cd ElmoTwitterClient
-$ npm install
-$ npm start
-```
-
-This should bring up the default browser in http://localhost:3000. From here one can use the website.
-
 # Few TODOs:
 
 - Currently the data is loaded from a static json. This will be replaced by a datastore and query operation rather than scan operation will be used for efficient querying.
