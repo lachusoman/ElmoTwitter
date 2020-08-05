@@ -11,18 +11,25 @@ Barack Obama (US)
 Narendra Modi(India)
 Sachin Tendulkar(India)
 ```
+```
 ## on a browser goto: http://localhost:3000/home
+```
 ![HomePage](https://github.com/lachusoman/ElmoTwitter/blob/master/screenshots/HomePage.png)
-
+```
 ## Search for User
 ## Will search User based on name or Location
 ## If User does not exist,error message will be shown
+```
 ![Invalid User](https://github.com/lachusoman/ElmoTwitter/blob/master/screenshots/Invalid%20UserOrLocation.png)
 
+```
 ## If User exists,results will be shown as links.You can click the link to view the selected User's Profile.
+```
 ![Search User](https://github.com/lachusoman/ElmoTwitter/blob/master/screenshots/Search---a.png)
 
+```
 ## Shows User Profile of selected User.
+```
 ![User Profile](https://github.com/lachusoman/ElmoTwitter/blob/master/screenshots/UserProfile.jpg)
 
 # Intro
